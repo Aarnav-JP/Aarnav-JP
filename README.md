@@ -104,7 +104,7 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarnav-JP&theme=tokyonight&hide_border=true&background=0d1117&ring=3382ed&fire=ef4444&currStreakLabel=3382ed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Aarnav-JP&theme=dark&hide_border=true&background=0d1117&ring=3382ed&fire=ef4444&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="500"/>
 </p>
 
 <br>
