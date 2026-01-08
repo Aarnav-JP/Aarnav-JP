@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Cloud%20Architect%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="http://portfolio-chi-lake-68.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-3382ed?style=flat-square&logoColor=white"/></a>
@@ -16,10 +16,10 @@
 const developer = {
     name: "Aarnav J P",
     location: "New Delhi, India 🇮🇳",
-    role: "Software Engineer & Cloud Architect",
+    role: "Software Engineer & Full-Stack Developer",
     
-    expertise: ["Microservices", "Cloud Infrastructure", "System Design"],
-    currentlyLearning: ["Kubernetes", "Apache Flink", "Distributed Systems"],
+    expertise: ["Web Development", "Competitive Programming", "Problem Solving"],
+    currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Technologies"],
     
     techStack: {
         languages: ["Python", "Java", "JavaScript", "C++"],
@@ -39,19 +39,19 @@ const developer = {
 <table>
 <tr>
   <td width="33%" align="center">
-    <img src="https://img.icons8.com/fluency/96/000000/cloud.png"/>
-    <h3>Cloud Architecture</h3>
-    <p>Building scalable multi-cloud solutions on AWS & GCP</p>
-  </td>
-  <td width="33%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/code.png"/>
-    <h3>Full-Stack Dev</h3>
-    <p>Creating robust applications from backend to frontend</p>
+    <h3>Web Development</h3>
+    <p>Building modern, responsive full-stack web applications</p>
   </td>
   <td width="33%" align="center">
-    <img src="https://img.icons8.com/fluency/96/000000/docker.png"/>
-    <h3>DevOps & CI/CD</h3>
-    <p>Automating deployments with Kubernetes & GitOps</p>
+    <img src="https://img.icons8.com/fluency/96/000000/trophy.png"/>
+    <h3>Competitive Programming</h3>
+    <p>Solving algorithmic challenges and optimizing solutions</p>
+  </td>
+  <td width="33%" align="center">
+    <img src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
+    <h3>Software Engineering</h3>
+    <p>Designing scalable systems and clean architectures</p>
   </td>
 </tr>
 </table>
