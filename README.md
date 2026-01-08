@@ -5,32 +5,34 @@
   <a href="http://portfolio-chi-lake-68.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-3382ed?style=flat-square&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aarnavjp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:aarnavjp@gmail.com"><img src="https://img.shields.io/badge/Email-aarnavjp@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Aarnav-JP&label=Profile%20views&color=3382ed&style=flat-square" alt="profile views" />
 </p>
 
 <br>
 
 ## � About Me
 
-```javascript
-const developer = {
-    name: "Aarnav J P",
-    location: "New Delhi, India 🇮🇳",
-    role: "Software Engineer & Full-Stack Developer",
-    
-    expertise: ["Web Development", "Competitive Programming", "Problem Solving"],
-    currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Technologies"],
-    
-    techStack: {
-        languages: ["Python", "Java", "JavaScript", "C++"],
-        cloud: ["AWS", "GCP", "Kubernetes", "Docker"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        frameworks: ["Spring Boot", "FastAPI", "React", "Node.js"]
-    },
-    
-    motto: "Professional like Deadpool — getting things done after explosions and Biryani breaks 🍛"
-};
-```
+<table>
+<tr>
+<td>
+
+Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer** based in **New Delhi, India** 🇮🇳
+
+I love the thrill of **competitive programming** 🏆, crafting beautiful **web applications** 💻, and solving complex problems with elegant code. Whether it's optimizing algorithms or building scalable systems, I'm always up for a challenge!
+
+### 🎯 What Drives Me
+- 💡 Turning complex problems into simple, elegant solutions
+- 🚀 Building products that make a real impact
+- 📚 Constantly learning and exploring new technologies
+- 🤝 Collaborating with awesome people on exciting projects
+
+### 💼 Currently Exploring
+`Advanced Algorithms` • `System Design` • `Cloud Technologies` • `Microservices Architecture`
+
+> *"Professional like Deadpool — getting things done after a few explosions and a Biryani break"* 🍛
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -176,6 +178,10 @@ Stay tuned for more exciting projects!
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aarnav-JP&label=Profile%20Views&color=3382ed&style=flat-square" alt="profile views" />
+</p>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=120&section=footer" width="100%"/>
