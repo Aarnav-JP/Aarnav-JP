@@ -15,7 +15,7 @@
 <tr>
 <td>
 
-Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer** based in **New Delhi, India** 🇮🇳
+Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer**
 
 I love the thrill of **competitive programming** 🏆, crafting beautiful **web applications** 💻, and solving complex problems with elegant code. Whether it's optimizing algorithms or building scalable systems, I'm always up for a challenge!
 
