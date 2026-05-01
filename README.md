@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20Systems&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="http://portfolio-chi-lake-68.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-3382ed?style=flat-square&logoColor=white"/></a>
