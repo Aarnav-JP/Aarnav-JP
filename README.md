@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20Systems&descAlignY=60" width="100%"/>
 
 <p align="center">
   <a href="http://portfolio-chi-lake-68.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-3382ed?style=flat-square&logoColor=white"/></a>
@@ -9,26 +9,26 @@
 
 <br>
 
-## � About Me
+## 👋 About Me
 
 <table>
 <tr>
 <td>
 
-Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer**
+Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer**.
 
-I love the thrill of **competitive programming** 🏆, crafting beautiful **web applications** 💻, and solving complex problems with elegant code. Whether it's optimizing algorithms or building scalable systems, I'm always up for a challenge!
+I enjoy building **cloud-native systems**, polished **full-stack products**, and exploring **data/ML** problems when they’re actually measurable and worth optimizing.
 
 ### 🎯 What Drives Me
-- 💡 Turning complex problems into simple, elegant solutions
-- 🚀 Building products that make a real impact
-- 📚 Constantly learning and exploring new technologies
-- 🤝 Collaborating with awesome people on exciting projects
+- 💡 Turning complex problems into simple, elegant solutions  
+- 🚀 Building products that feel premium and ship reliably  
+- 📚 Learning by building: cloud, microservices, data pipelines, and AI systems  
+- 🤝 Collaborating with people who care about clean engineering  
 
 ### 💼 Currently Exploring
-`Advanced Algorithms` • `System Design` • `Cloud Technologies` • `Microservices Architecture`
+`System Design` • `Microservices` • `Cloud (AWS/GCP)` • `Distributed Data Processing` • `Applied ML`
 
-> *"Professional like Deadpool — getting things done after a few explosions and a Biryani break"* 🍛
+> *"Professional like Deadpool — getting things done after a few explosions and a Biryani break"*
 
 </td>
 </tr>
@@ -36,24 +36,24 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 
 <br>
 
-## � What I Do
+## ✅ What I Do
 
 <table>
 <tr>
   <td width="33%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/code.png"/>
-    <h3>Web Development</h3>
-    <p>Building modern, responsive full-stack web applications</p>
-  </td>
-  <td width="33%" align="center">
-    <img src="https://img.icons8.com/fluency/96/000000/trophy.png"/>
-    <h3>Competitive Programming</h3>
-    <p>Solving algorithmic challenges and optimizing solutions</p>
+    <h3>Full-Stack Engineering</h3>
+    <p>Next.js / MERN apps with strong UI polish, auth, storage, and performance</p>
   </td>
   <td width="33%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
-    <h3>Software Engineering</h3>
-    <p>Designing scalable systems and clean architectures</p>
+    <h3>Cloud & Microservices</h3>
+    <p>Containerized services, GitOps, observability, and multi-cloud deployments</p>
+  </td>
+  <td width="33%" align="center">
+    <img src="https://img.icons8.com/fluency/96/000000/trophy.png"/>
+    <h3>Algorithms & Data</h3>
+    <p>Competitive programming mindset + real systems: pipelines, analytics, ML</p>
   </td>
 </tr>
 </table>
@@ -72,8 +72,7 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -90,6 +89,7 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -99,12 +99,12 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aarnav-JP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=ef4444&text_color=ffffff&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aarnav-JP&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aarnav-JP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=ef4444&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aarnav-JP&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aarnav-JP&theme=dark&hide_border=true&background=0d1117&ring=3382ed&fire=ef4444&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="500"/>
+  <img src="https://streak-stats.demolab.com/?user=Aarnav-JP&theme=dark&hide_border=true&background=0d1117&ring=3382ed&fire=ef4444&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 <br>
@@ -115,26 +115,79 @@ I love the thrill of **competitive programming** 🏆, crafting beautiful **web 
 <summary><b>🏥 Healthcare Cloud Microservices System</b></summary>
 <br>
 
-> Production-grade healthcare platform with microservices architecture deployed on AWS & GCP
-
-**Tech Stack:** Kubernetes • Kafka • Spring Boot • FastAPI • PostgreSQL • Terraform • ArgoCD
-
-**Features:**
-- Multi-cloud deployment (AWS EKS & GCP GKE)
-- Real-time analytics with Apache Flink
-- Event-driven architecture with Kafka
-- Complete observability (Prometheus/Grafana)
-- GitOps with ArgoCD
+> Cloud-native healthcare platform built with microservices across Python, Java, and Node.js. Multi-cloud deployment (AWS EKS, GCP GKE), GitOps with ArgoCD, and comprehensive monitoring.
 
 [View Repository →](https://github.com/Aarnav-JP/healthcare-cloud-system)
 
 </details>
 
 <details>
-<summary><b>� More Projects Coming Soon...</b></summary>
+<summary><b>🧪 HireMatrix — Technical Assessment Platform</b></summary>
 <br>
 
-Stay tuned for more exciting projects!
+> A premium technical assessment platform featuring a VS Code-like IDE, real-time code evaluation, and robust anti-cheat measures.
+
+**Built With:** MERN • Tailwind CSS • Framer Motion
+
+[View Repository →](https://github.com/Aarnav-JP/HireMatrix)
+
+</details>
+
+<details>
+<summary><b>✦ astral-codex — Personal Life-Tracking Codex</b></summary>
+<br>
+
+> A full-stack personal life-tracking codex — catalog, rate, and journal restaurants, movies, books, music, places & more with a cyberpunk-astronomy UI.
+
+**Built With:** Next.js 16 • MongoDB • Redis • Cloudinary
+
+[View Repository →](https://github.com/Aarnav-JP/astral-codex)
+
+</details>
+
+<details>
+<summary><b>🎬 AWS MapReduce — Big Data Analytics Pipeline (EMR + Hadoop)</b></summary>
+<br>
+
+> Production-grade Big Data analytics pipeline processing the MovieLens dataset (33M+ ratings) using Hadoop MapReduce on AWS EMR, with automated provisioning using Terraform.
+
+**Built With:** Java • Hadoop MapReduce • AWS EMR • Terraform
+
+[View Repository →](https://github.com/Aarnav-JP/AWS_MapReduce)
+
+</details>
+
+<details>
+<summary><b>📈 ledgerscope — SQL-native Portfolio Risk Analytics (DuckDB)</b></summary>
+<br>
+
+> SQL-native portfolio risk analytics engine using DuckDB. Import brokerage CSVs and compute Sharpe ratio, drawdown, and PnL locally.
+
+**Built With:** Python • DuckDB
+
+[View Repository →](https://github.com/Aarnav-JP/ledgerscope)
+
+</details>
+
+<details>
+<summary><b>📚 BookStore Microservices (Docker)</b></summary>
+<br>
+
+> Containerized demo featuring Catalog, Order, Payment, and API Gateway services. Includes service discovery and circuit breaker pattern with Docker Compose.
+
+[View Repository →](https://github.com/Aarnav-JP/BookStore_microservices_Docker)
+
+</details>
+
+<details>
+<summary><b>🛰️ Gravlensai — Gravitational Lens Detection (ViT)</b></summary>
+<br>
+
+> Deep learning framework for gravitational lens detection and 6-parameter regression using Vision Transformers.
+
+**Built With:** Python
+
+[View Repository →](https://github.com/Aarnav-JP/Gravlensai)
 
 </details>
 
@@ -143,7 +196,7 @@ Stay tuned for more exciting projects!
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarnav-JP&theme=react-dark&hide_border=true&bg_color=0d1117&color=3382ed&line=ef4444&point=ffffff&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarnav-JP&theme=react-dark&hide_border=true&bg_color=0d1117&color=3382ed&line=ef4444&point=ffffff&area=true" alt="Contribution Graph"/>
 </p>
 
 <br>
