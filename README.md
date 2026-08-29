@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3382ed,100:ef4444&height=200&section=header&text=Aarnav%20J%20P&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="http://portfolio-chi-lake-68.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-3382ed?style=flat-square&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 
 Hey there! I'm **Aarnav J P**, a **Senior Software Engineer at Marvell Technology**, working on the driver side of Marvell's **Octeon SoCs**, with a focus on data-plane frameworks like **DPDK**, **ODP**, and **VPP**.
 
-Outside of that, I enjoy building **cloud-native systems**, polished **full-stack products**, and exploring **data/ML** problems when they're actually measurable and worth optimizing.
+Outside of that, I enjoy building **cloud-native systems**, polished **full-stack products**, exploring **data/DL** problems when they're actually measurable and worth optimizing and trying to  build and learn in astrophysics and finance day in day out  
 
 ### 🎯 What Drives Me
 - ⚙️ Low-level driver and data-plane development for high-performance networking
@@ -30,7 +30,7 @@ Outside of that, I enjoy building **cloud-native systems**, polished **full-stac
 `Senior Software Engineer @ Marvell Technology` — Octeon driver development • `DPDK` • `ODP` • `VPP`
 
 ### 🌐 Open Source
-Open-source contributor to **DPDK** and **VPP (fd.io)** — upstream patches merged and reviewed by core maintainers.
+Frequent Open-source contributor to **DPDK** and **VPP (fd.io)** — upstream patches merged and reviewed by core maintainers.
 
 ### 🔭 Also Exploring
 `System Design` • `Microservices` • `Cloud (AWS/GCP)` • `Distributed Data Processing` • `Applied ML`
