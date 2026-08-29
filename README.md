@@ -15,17 +15,24 @@
 <tr>
 <td>
 
-Hey there! I'm **Aarnav J P**, a passionate **Software Engineer** and **Full-Stack Developer**.
+Hey there! I'm **Aarnav J P**, a **Senior Software Engineer at Marvell Technology**, working on the driver side of Marvell's **Octeon SoCs**, with a focus on data-plane frameworks like **DPDK**, **ODP**, and **VPP**.
 
-I enjoy building **cloud-native systems**, polished **full-stack products**, and exploring **data/ML** problems when they’re actually measurable and worth optimizing.
+Outside of that, I enjoy building **cloud-native systems**, polished **full-stack products**, and exploring **data/ML** problems when they're actually measurable and worth optimizing.
 
 ### 🎯 What Drives Me
+- ⚙️ Low-level driver and data-plane development for high-performance networking
 - 💡 Turning complex problems into simple, elegant solutions  
 - 🚀 Building products that feel premium and ship reliably  
 - 📚 Learning by building: cloud, microservices, data pipelines, and AI systems  
 - 🤝 Collaborating with people who care about clean engineering  
 
-### 💼 Currently Exploring
+### 💼 Currently
+`Senior Software Engineer @ Marvell Technology` — Octeon driver development • `DPDK` • `ODP` • `VPP`
+
+### 🌐 Open Source
+Open-source contributor to **DPDK** and **VPP (fd.io)** — upstream patches merged and reviewed by core maintainers.
+
+### 🔭 Also Exploring
 `System Design` • `Microservices` • `Cloud (AWS/GCP)` • `Distributed Data Processing` • `Applied ML`
 
 > *"Professional like Deadpool — getting things done after a few explosions and a Biryani break"*
@@ -40,17 +47,22 @@ I enjoy building **cloud-native systems**, polished **full-stack products**, and
 
 <table>
 <tr>
-  <td width="33%" align="center">
+  <td width="25%" align="center">
+    <img src="https://img.icons8.com/fluency/96/000000/motherboard.png"/>
+    <h3>Driver & Data-Plane Engineering</h3>
+    <p>Octeon SoC driver development at Marvell Technology; open-source contributor to DPDK and VPP</p>
+  </td>
+  <td width="25%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/code.png"/>
     <h3>Full-Stack Engineering</h3>
     <p>Next.js / MERN apps with strong UI polish, auth, storage, and performance</p>
   </td>
-  <td width="33%" align="center">
+  <td width="25%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
     <h3>Cloud & Microservices</h3>
     <p>Containerized services, GitOps, observability, and multi-cloud deployments</p>
   </td>
-  <td width="33%" align="center">
+  <td width="25%" align="center">
     <img src="https://img.icons8.com/fluency/96/000000/trophy.png"/>
     <h3>Algorithms & Data</h3>
     <p>Competitive programming mindset + real systems: pipelines, analytics, ML</p>
@@ -69,6 +81,10 @@ I enjoy building **cloud-native systems**, polished **full-stack products**, and
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Data Plane / Networking**  
+![DPDK](https://img.shields.io/badge/-DPDK-A90533?style=flat-square&logo=linux-foundation&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -91,21 +107,7 @@ I enjoy building **cloud-native systems**, polished **full-stack products**, and
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aarnav-JP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=ef4444&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aarnav-JP&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aarnav-JP&theme=dark&hide_border=true&background=0d1117&ring=3382ed&fire=ef4444&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-</p>
 
 <br>
 
@@ -190,14 +192,6 @@ I enjoy building **cloud-native systems**, polished **full-stack products**, and
 [View Repository →](https://github.com/Aarnav-JP/Gravlensai)
 
 </details>
-
-<br>
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarnav-JP&theme=react-dark&hide_border=true&bg_color=0d1117&color=3382ed&line=ef4444&point=ffffff&area=true" alt="Contribution Graph"/>
-</p>
 
 <br>
 
